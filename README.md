@@ -105,6 +105,10 @@ This Crop and Fertilizer Recommendation System is designed to be user-friendly a
    - Along with the crop and fertilizer recommendations, the system may also provide insights into why certain options are suggested, based on the input data.
    - You may also see visualizations such as graphs or charts that represent the prediction confidence or other statistical data related to the recommendations.
 
+6. **Further Actions:**
+   - You can experiment with different data inputs to see how various soil and environmental changes might affect the recommendations.
+   - This can be particularly useful for planning future planting and fertilization strategies to maximize yield and sustainability.
+
 
 ## Getting Started
 To set up the project locally, follow these steps:
@@ -113,12 +117,5 @@ git clone https://github.com/yourusername/crop-and-fertilizer-recommendation-sys
 cd crop-and-fertilizer-recommendation-system
 pip install -r requirements.txt
 python app.py
-
-
-
-
-6. **Further Actions:**
-   - You can experiment with different data inputs to see how various soil and environmental changes might affect the recommendations.
-   - This can be particularly useful for planning future planting and fertilization strategies to maximize yield and sustainability.
 
 By following these steps, users can easily leverage the Crop and Fertilizer Recommendation System to make informed decisions about their agricultural practices.
