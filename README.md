@@ -72,15 +72,6 @@ The **Crop and Fertilizer Recommendation System** leverages machine learning to 
 - **Advanced Modeling Techniques:** Exploring deeper neural networks and ensemble methods to refine predictions.
 - **Dynamic User Interface:** Developing a more interactive dashboard that provides real-time insights and suggestions based on user input.
 
-## Getting Started
-To set up the project locally, follow these steps:
-```bash
-git clone https://github.com/yourusername/crop-and-fertilizer-recommendation-system.git
-cd crop-and-fertilizer-recommendation-system
-pip install -r requirements.txt
-python app.py
-
-
 ## Usage
 This Crop and Fertilizer Recommendation System is designed to be user-friendly and accessible to a wide audience, especially farmers and agricultural consultants. Here is how you can use the system to get personalized crop and fertilizer recommendations:
 
@@ -113,6 +104,18 @@ This Crop and Fertilizer Recommendation System is designed to be user-friendly a
 5. **Interpreting Results:**
    - Along with the crop and fertilizer recommendations, the system may also provide insights into why certain options are suggested, based on the input data.
    - You may also see visualizations such as graphs or charts that represent the prediction confidence or other statistical data related to the recommendations.
+
+
+## Getting Started
+To set up the project locally, follow these steps:
+```bash
+git clone https://github.com/yourusername/crop-and-fertilizer-recommendation-system.git
+cd crop-and-fertilizer-recommendation-system
+pip install -r requirements.txt
+python app.py
+
+
+
 
 6. **Further Actions:**
    - You can experiment with different data inputs to see how various soil and environmental changes might affect the recommendations.
